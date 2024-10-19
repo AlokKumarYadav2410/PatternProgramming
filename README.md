@@ -49,4 +49,4 @@ To clone this repository and run the programs, follow these steps:
    Each Java file in this repository corresponds to a specific pattern. You can explore and modify the code to better understand how the patterns are generated. Feel free to experiment and create your own variations!
    
 ## License
-This project is licensed under the MIT License. See the [LICENSE]((https://github.com/AlokKumarYadav2410/PatternProgramming/blob/d65d6d911fc3af3168feb18936aace3eb522194f/LICENSE)) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/AlokKumarYadav2410/PatternProgramming/blob/d65d6d911fc3af3168feb18936aace3eb522194f/LICENSE) file for more details.
